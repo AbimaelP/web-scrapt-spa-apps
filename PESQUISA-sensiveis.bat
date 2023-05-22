@@ -1,0 +1,1 @@
+cd bin && node sensiveis.js
